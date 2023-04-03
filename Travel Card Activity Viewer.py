@@ -1,3 +1,9 @@
+"""
+    The program keeps a log of activity on a travel card. The activity is read from a text file
+    and records are pulled as requested. Activity includes travel times, tap on/off, stations
+    travelled, and balance.
+"""
+
 # Intialise empty lists to remove duplicates
 cards_no_dupes = []
 stations_no_dupes = []
